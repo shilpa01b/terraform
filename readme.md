@@ -2,7 +2,9 @@
 
 # Prerequisites
    1.[Terraform](https://www.terraform.io/downloads.html) installed on your machine.
+   
    2.An AWS account with permissions to create VPCs and associated resources.
+   
    3.AWS CLI configured with your credentials.
 
 # terraform AWS VPC and subnet setup
